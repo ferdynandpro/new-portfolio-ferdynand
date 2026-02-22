@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://domainkamu.com'; // GANTI DENGAN DOMAIN ASLIMU NANTI
+  const baseUrl = 'https://ferdynandsilalahi.site'; // GANTI DENGAN DOMAIN ASLIMU NANTI
 
   return [
     {

@@ -25,7 +25,7 @@ export default function About({ onProjectClick }) {
             <div className="flex-1 text-center md:text-left">
               <div className="flex flex-col sm:flex-row sm:items-center gap-4 mb-6 justify-center md:justify-start">
                 <h3 className="text-3xl font-extrabold text-slate-900">Ferdynand Silalahi</h3>
-                <span className="px-3 py-1 bg-blue-100 text-blue-700 text-xs font-bold rounded-full w-fit mx-auto sm:mx-0">B.Comp.Sc (2025)</span>
+                <span className="px-3 py-1 bg-blue-100 text-blue-700 text-xs font-bold rounded-full w-fit mx-auto sm:mx-0">Fresh graduate in Informatic Engineer(2025)</span>
               </div>
       
               <div className="flex flex-wrap justify-center md:justify-start gap-6 lg:gap-8">
@@ -38,8 +38,8 @@ export default function About({ onProjectClick }) {
               </div>
 
               <p className="text-slate-600 text-lg leading-relaxed max-w-2xl mb-8 text-justify pt-8">
-                A proactive web developer based in Tabalong, South Kalimantan. With hands-on experience building diverse web applications independently, I am currently looking for an opportunity to join an innovative tech team. I am ready to leverage my full-stack capabilities to drive business goals and create impactful user experiences.
-              </p>
+               As an Information Technology graduate from UKSW and a proactive web developer based in Tabalong, South Kalimantan, I bring hands-on experience in building diverse web applications independently. I am currently seeking an opportunity to join an innovative tech team where I can leverage my full-stack capabilities to drive business goals and create impactful user experiences.
+                             </p>
             </div>
           </div>
 

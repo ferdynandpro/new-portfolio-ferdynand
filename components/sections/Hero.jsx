@@ -24,7 +24,7 @@ export default function Hero() {
       <div className="max-w-4xl mx-auto w-full relative z-10 flex flex-col items-center text-center space-y-10">
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="flex items-center gap-2 px-5 py-2.5 bg-white border border-slate-200 rounded-full shadow-sm">
           <div className="w-2.5 h-2.5 rounded-full bg-green-500 animate-pulse" />
-          <span className="text-xs font-bold text-slate-600 tracking-wide uppercase">Available for freelance work</span>
+          <span className="text-xs font-bold text-slate-600 tracking-wide uppercase">Available for work</span>
         </motion.div>
 
         <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }} className="space-y-6">

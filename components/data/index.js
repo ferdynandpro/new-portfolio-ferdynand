@@ -47,17 +47,17 @@ export const PROJECTS = [
     tags: ["React", "Express", "MySQL","Prisma","CSS", "Figma", "VPS Server","Postman"],
     description: "A financial management application featuring automatic tracking and AI-driven insights to help users manage their budgets effectively.",
     date: "2026",
-    client: "Nexus Financial"
+    client: "Personal"
   },
   {
     id: 5,
-    title: "Built A full-stack web application to manage product, payment logs, profit summary",
+    title: "Web Based Management System",
     category: "Final Project",
     image: "../project4.webp",
-    tags: ["React Native", "Firebase"],
-    description: "-",
+    tags: ["React", "Express", "MongoDb", "Postman", "Figma"],
+    description: "Built A full-stack web application to manage product, payment logs, profit summary",
     date: "2024",
-    client: "Nexus Financial"
+    client: "Final Project"
   },
   {
     id: 6,
